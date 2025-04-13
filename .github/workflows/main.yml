@@ -39,4 +39,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: yourMirzaakbaryakub/nodejs-demo-app:latest
+          tags: yourAkbarYakub123/nodejs-demo-app:latest
